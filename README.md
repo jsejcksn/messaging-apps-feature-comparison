@@ -1,5 +1,14 @@
 # Comparison of features of messaging apps
 
+> ## Legend
+> 
+> | Supported | Partially supported | Not supported | Unknown |
+> | :-------: | :-----------------: | :-----------: | :-----: |
+> | ✅        | 😐                 | ❌            | 🤔     |
+
+
+## Comparison
+
 |                                | iMessage | Google Messages | Hangouts | Signal | Snapchat | Slack | Discord |
 | ------------------------------ | :------: | :-------------: | :------: | :----: | :------: | :---: | :-----: |
 | Doesn't require a phone number | ✅       | ❌             | ✅       | ❌    | ✅       | ✅   | ✅      |
