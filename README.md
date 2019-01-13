@@ -24,8 +24,8 @@
 | Reactions                      | ✅       | ❌             | ❌       | ❌    | 🤔       | ✅   | ✅      |
 | Link previews                  | ✅       | ✅             | 😐       | ❌    | 🤔       | ✅   | ✅      |
 | Send files                     | ✅       | 😐             | 😐       | ✅    | 🤔       | ✅   | ✅      |
-| Photo/video capture            | ✅       | ❌             | ✅       | ✅    | ✅       | ✅   | ✅      |
-| Audio-only capture             | ✅       | ❌             | ❌       | ✅    | 🤔       | ❌   | ❌      |
+| Photo/video capture            | ✅       | ✅             | ✅       | ✅    | ✅       | ✅   | ✅      |
+| Audio-only capture             | ✅       | ✅             | ❌       | ✅    | 🤔       | ❌   | ❌      |
 | Animated image search built-in | ❌       | ✅             | ❌       | ✅    | 🤔       | ❌   | ✅      |
 | Stickers                       | ❌       | ✅             | ❌       | ❌    | ✅       | ❌   | ❌      |
 
