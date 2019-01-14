@@ -22,8 +22,8 @@
 | Read receipts                  | ✅       | ✅             | ✅       | ✅    | ✅       | ❌   | ❌      |
 | Typing indicator               | ✅       | ✅             | ✅       | ✅    | ✅       | ✅   | ✅      |
 | Reactions                      | ✅       | ❌             | ❌       | ❌    | 🤔       | ✅   | ✅      |
-| Link previews                  | ✅       | ✅             | 😐       | ❌    | 🤔       | ✅   | ✅      |
-| Send files                     | ✅       | 😐             | 😐       | ✅    | 🤔       | ✅   | ✅      |
+| Link previews                  | ✅       | ✅             | 😐 <sup>[1](#note1)</sup>       | ❌    | 🤔       | ✅   | ✅      |
+| Send files                     | ✅       | 😐 <sup>[2](#note1)</sup>             | 😐 <sup>[2](#note1)</sup>       | ✅    | 🤔       | ✅   | ✅      |
 | Photo/video capture            | ✅       | ✅             | ✅       | ✅    | ✅       | ✅   | ✅      |
 | Audio-only capture             | ✅       | ✅             | ❌       | ✅    | 🤔       | ❌   | ❌      |
 | Animated image search built-in | ❌       | ✅             | ❌       | ✅    | 🤔       | ❌   | ✅      |
@@ -32,3 +32,7 @@
 <!--
 | New category template | ✅😐❌🤔       | ✅😐❌🤔             | ✅😐❌🤔       | ✅😐❌🤔    | ✅😐❌🤔       | ✅😐❌🤔   | ✅😐❌🤔      |
 -->
+
+### Partial support notes
+<span id="note1">1</span>: Link previews only seem to work with YouTube  
+<span id="note2">2</span>: Only images and videos can be uploaded
