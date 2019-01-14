@@ -23,7 +23,7 @@
 | Typing indicator               | ✅       | ✅             | ✅       | ✅    | ✅       | ✅   | ✅      |
 | Reactions                      | ✅       | ❌             | ❌       | ❌    | 🤔       | ✅   | ✅      |
 | Link previews                  | ✅       | ✅             | 😐 <sup>[1](#note1)</sup>       | ❌    | 🤔       | ✅   | ✅      |
-| Send files                     | ✅       | 😐 <sup>[2](#note1)</sup>             | 😐 <sup>[2](#note1)</sup>       | ✅    | 🤔       | ✅   | ✅      |
+| Send files                     | ✅       | 😐 <sup>[2](#note2)</sup>             | 😐 <sup>[2](#note2)</sup>       | ✅    | 🤔       | ✅   | ✅      |
 | Photo/video capture            | ✅       | ✅             | ✅       | ✅    | ✅       | ✅   | ✅      |
 | Audio-only capture             | ✅       | ✅             | ❌       | ✅    | 🤔       | ❌   | ❌      |
 | Animated image search built-in | ❌       | ✅             | ❌       | ✅    | 🤔       | ❌   | ✅      |
