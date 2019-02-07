@@ -35,5 +35,5 @@
 
 ### Partial support notes
 <span id="note1">1</span>: Link previews only seem to work with YouTube  
-<span id="note2">[2](https://signal.org/blog/i-link-therefore-i-am/)</span>: Link previews only for Imgur, Instagram, Reddit, YouTube  
+<span id="note2">2</span>: Link previews only for Imgur, Instagram, Reddit, YouTube ([link](https://signal.org/blog/i-link-therefore-i-am/))  
 <span id="note3">3</span>: Only images and videos can be uploaded
