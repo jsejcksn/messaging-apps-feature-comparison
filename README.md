@@ -22,8 +22,8 @@
 | Read receipts                  | ✅       | ✅             | ✅       | ✅    | ✅       | ❌   | ❌      |
 | Typing indicator               | ✅       | ✅             | ✅       | ✅    | ✅       | ✅   | ✅      |
 | Reactions                      | ✅       | ❌             | ❌       | ❌    | 🤔       | ✅   | ✅      |
-| Link previews                  | ✅       | ✅             | 😐 <sup>[1](#note1)</sup>       | ❌    | 🤔       | ✅   | ✅      |
-| Send files                     | ✅       | 😐 <sup>[2](#note2)</sup>             | 😐 <sup>[2](#note2)</sup>       | ✅    | 🤔       | ✅   | ✅      |
+| Link previews                  | ✅       | ✅             | 😐 <sup>[1](#note1)</sup>      | ❌ <sup>[2](#note2)</sup>   | 🤔       | ✅   | ✅      |
+| Send files                     | ✅       | 😐 <sup>[3](#note3)</sup>             | 😐 <sup>[3](#note3)</sup>       | ✅    | 🤔       | ✅   | ✅      |
 | Photo/video capture            | ✅       | ✅             | ✅       | ✅    | ✅       | ✅   | ✅      |
 | Audio-only capture             | ✅       | ✅             | ❌       | ✅    | 🤔       | ❌   | ❌      |
 | Animated image search built-in | ❌       | ✅             | ❌       | ✅    | 🤔       | ❌   | ✅      |
@@ -35,4 +35,5 @@
 
 ### Partial support notes
 <span id="note1">1</span>: Link previews only seem to work with YouTube  
-<span id="note2">2</span>: Only images and videos can be uploaded
+<span id="note2">[2](https://signal.org/blog/i-link-therefore-i-am/)</span>: Link previews only for Imgur, Instagram, Reddit, YouTube  
+<span id="note3">3</span>: Only images and videos can be uploaded
